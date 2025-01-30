@@ -2,6 +2,10 @@
 
 ![Descrição do GIF](./assets/wokwi.gif)
 
+## Explicação do projeto
+
+https://github.com/user-attachments/assets/419ee064-7afe-4f6c-a3b0-435492861f0d
+
 ## Enunciado
 
 Para consolidar a compreensão dos conceitos relacionados ao uso de interrupções no microcontrolador RP2040 e explorar as funcionalidades da placa de desenvolvimento BitDogLab, propõe-se a seguinte tarefa prática.
