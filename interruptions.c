@@ -60,7 +60,7 @@ int main()
 
     while (true) {
         if (button_pressed) { // Verifica se um botão foi pressionado
-            set_one_led(255, 0, 0);
+            set_one_led(255, 0, 0); // Atualiza o valor do LED com base no contador
         } else {
             button_pressed = false; // Atualiza a flag para indicar que nenhum botão foi pressionado
         }
