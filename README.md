@@ -39,3 +39,17 @@ Para o desenvolvimento, devem ser seguidos os seguintes requisitos:
 2. Debouncing: É obrigatório implementar o tratamento do bouncing dos botões via software.
 3. Controle de LEDs: O projeto deve incluir o uso de LEDs comuns e LEDs WS2812, demonstrando o domínio de diferentes tipos de controle.
 4. Organização do código: O código deve estar bem estruturado e comentado para facilitar o entendimento.
+
+## Execução do projeto
+
+1. Clone o repositório em sua maqu:
+```
+git clone https://github.com/caiquedebrito/interruptions
+```
+2. Abra o projeto no vs code
+```
+code interruptions
+```
+3. Compile o projeto com a extensão CMake no vs code
+4. Conecte sua placa BitDogLab em seu computador em modo bootsel
+5. Clique no botão run da extensão CMake do VS Code para carregar o projeto na placa
